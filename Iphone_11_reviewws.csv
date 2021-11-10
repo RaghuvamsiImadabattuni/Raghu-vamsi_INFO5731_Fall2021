@@ -1,4 +1,4 @@
-Document_id,Review_Description,Sentiment
+Document_id,Clean_Text,Sentiment
 0,Purchased this product advertised as fully unlocked. Inserted my sim card and it did not work. Contacted my service provider and they checked my IMEI number and it reported that the phone was still locked by the original carrier. Phone came in good condition just couldn't use any service provider.,Negative
 1,I was feeling a bit skeptical after I placed my order but I was proven wrong! The phone looks brand new besides some very minimal/ light scratches (almost impossible to notice) and the battery life is still at 100%. I also like that there was a screen protector on the phone,Positive
 2,Phone was not unlocked could it use it,Negative
